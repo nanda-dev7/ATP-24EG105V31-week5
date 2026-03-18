@@ -11,7 +11,7 @@ Benefits of em and rem
 
 --> To change the size of every element of web page we use 
 html{
-    font-size:10px or rem 
+    font-size:10px or rem    
 }
 
 View Port Units[vw vh]
