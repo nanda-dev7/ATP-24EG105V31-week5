@@ -1,4 +1,4 @@
-Concepts Covered
+Concepts Covered.  
 🔹 Flexbox
 
 Learn how to create flexible layouts using CSS Flexbox.
