@@ -5,7 +5,7 @@ DOM[Document Object Model]
 in the document of html open tag as parent and their childrens will upto the close tag
 
 
---Imperative Programming
+--Imperative Programming.   
 In this type of imperative programming we need to write the each and every instruction if any instruction is missed this will not appear some functions to the application 
 For the developers it will be a headache before the technology was introduced 
 For Imperative programming we used vanilla js 
