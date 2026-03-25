@@ -1,4 +1,4 @@
-Day 12 – Core CSS Layouts       
+Day 12 – Core CSS Layouts           
 
 Flexbox basics and layouts
 
